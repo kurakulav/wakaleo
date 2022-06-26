@@ -4,9 +4,9 @@ execution:
  hold-for: 3m
  ram-up: 2m
  
- scenario: choose flight
+ scenario: Choose Flight
 scenarios: 
- choose flight:
+ Choose Flight:
    requests: 
    -label: blazedemo
      method: GET
